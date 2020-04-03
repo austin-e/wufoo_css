@@ -3,31 +3,31 @@
 .manage-membership iframe {
     height: 60vh;
 }
-form#form144 ul {
+form#form134 ul {
     background: #eff0f0;
     border-radius: 10px;
     padding: 10px;
 }
-form#form14 {
+form#form13 {
     width: 90%;
     margin: 0 auto;
     left: 50%;
     transform: translate(-50%, 0);
 }
-form#form14 ul li input, form#form14 ul li select,form#form14 ul li textarea {
+form#form13 ul li input, form#form13 ul li select,form#form13 ul li textarea {
     background: #fff;
     padding: 10px 12px;
     box-sizing: border-box;
     border-radius: 10px;
     border: none;
 }
-form#form14 ul li select {
+form#form13 ul li select {
 	width: 100%;
 }
-form#form14 li.focused {
+form#form13 li.focused {
     background-color: none;
 }
-form#form14 li.buttons input {
+form#form13 li.buttons input {
     background: #e7b95e;
     border: none;
     margin-bottom: 0;
@@ -48,10 +48,10 @@ body#public .wufoo .info h2 {
     font-size: 16px!important;
 }
 
-form#form14 ul li input, form#form14 ul li select, form#form14 ul li textarea {
+form#form13 ul li input, form#form13 ul li select, form#form13 ul li textarea {
     font-family: 'Source Sans Pro', sans-serif;
 }
-form#form14 ul li textarea, form#form14 ul li select {
+form#form13 ul li textarea, form#form13 ul li select {
     text-transform: uppercase !important;
 	font-family: 'Source Sans Pro', sans-serif!important;
 }
